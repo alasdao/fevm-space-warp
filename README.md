@@ -61,7 +61,8 @@ FilecoinMarketConsumer deployed to: 0x478973504A879Ef7a114436cFD01dFAf66EB9Bb0
 Deploying DealRewarder...
 DealRewarder deployed to: 0x2E63683eEed814B60738d48245c54959900769aE
 Done in 221.29s.
-``` 
+````
+
 ### Explorer 
 https://explorer.glif.io/address/f410f4nnp6vte7nvy7nfa4suexogqebx76bbdx5huowy/?network=hyperspacenet
 https://hyperspace.filfox.info/en/address/t410f4nnp6vte7nvy7nfa4suexogqebx76bbdx5huowy
