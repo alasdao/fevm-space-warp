@@ -51,6 +51,7 @@ Nandit Mehra introducing lighthouse
 
 torsten@tri:~/src/fevm-hardhat-kit $ yarn hardhat deploy
 
+````
 Compiled 57 Solidity files successfully
 Wallet Ethereum Address: 0xe35afF5664Fb6B8Fb4a0E4A84bB8D0206FfF0423
 Deploying Simplecoin...
@@ -60,7 +61,7 @@ FilecoinMarketConsumer deployed to: 0x478973504A879Ef7a114436cFD01dFAf66EB9Bb0
 Deploying DealRewarder...
 DealRewarder deployed to: 0x2E63683eEed814B60738d48245c54959900769aE
 Done in 221.29s.
-
+``` 
 ### Explorer 
 https://explorer.glif.io/address/f410f4nnp6vte7nvy7nfa4suexogqebx76bbdx5huowy/?network=hyperspacenet
 https://hyperspace.filfox.info/en/address/t410f4nnp6vte7nvy7nfa4suexogqebx76bbdx5huowy
@@ -80,9 +81,10 @@ Upload File Example (https://docs.lighthouse.storage/lighthouse-1/lighthouse-sdk
 - https://gateway.lighthouse.storage/ipfs/QmUYrEkCRKp6C3uQxsK8YaMVBqbp9X3ve5y6DLxe6etJ5y
 
 Upload Encrypted Example
+````
 {
     "Name": "Torsten Goerke.svg",
     "Hash": "QmXzW11XQDPHhcT6WNC54et78JyUz3kN4w45JGGivaLLYp",
     "Size": "18504"
 }
-
+``` 
