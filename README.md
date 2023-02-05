@@ -2,7 +2,7 @@
 
 fevm-space-warp - Ustore DAO Tooling
 
-UStore is a perpetual storage DAO for communities of DIY enthusiasts
+**UStore is a perpetual storage DAO for communities of DIY enthusiasts**
 
 - https://spacewarp.fvm.dev/
 - https://ethglobal.com/showcase/ustore-vtvnm
