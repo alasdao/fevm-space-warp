@@ -2,7 +2,10 @@
 
 fevm-space-warp - Ustore DAO Tooling
 
+UStore is a perpetual storage DAO for communities of DIY enthusiasts
+
 - https://spacewarp.fvm.dev/
+- https://ethglobal.com/showcase/ustore-vtvnm
 
 ## Storage deals and actors
 
@@ -16,7 +19,7 @@ fevm-space-warp - Ustore DAO Tooling
 
 ## Use cases / Hack ideas 
 
-### Perperual storage 
+### Perpetual storage 
 - service framework for sustained storage of data without user interaction
   - price discovery 
   - reputation system
@@ -35,8 +38,6 @@ Smart contract wrappers for filecoin actors
 - https://github.com/Zondax/filecoin-solidity
 FVM Hardhat Kit 
 - https://github.com/0xwaya/space-warp
-
-UStore is a perpetual storage DAO for communities of DIY enthusiasts
 
 ## Sponsors
 
